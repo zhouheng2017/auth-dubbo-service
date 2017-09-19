@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="authconsumer" />
+        <module name="authprovider" />
+        <module name="oauthconfigure" />
+        <module name="site" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="app" target="1.5" />
+      <module name="auth-dubbo-service" target="1.5" />
+      <module name="authconsumer" target="1.8" />
+      <module name="authprovider" target="1.5" />
+      <module name="oauthconfigure" target="1.8" />
+      <module name="site" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

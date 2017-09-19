@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="authprovider:war">
+    <output-path>$PROJECT_DIR$/authprovider/target</output-path>
+    <root id="archive" name="auth.provider.war">
+      <element id="artifact" artifact-name="authprovider:war exploded" />
+    </root>
+  </artifact>
+</component>

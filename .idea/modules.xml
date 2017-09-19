@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auth-dubbo-service.iml" filepath="$PROJECT_DIR$/auth-dubbo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authconsumer/authconsumer.iml" filepath="$PROJECT_DIR$/authconsumer/authconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authprovider/authprovider.iml" filepath="$PROJECT_DIR$/authprovider/authprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauthconfigure/oauthconfigure.iml" filepath="$PROJECT_DIR$/oauthconfigure/oauthconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/site/site.iml" filepath="$PROJECT_DIR$/app/site/site.iml" />
+    </modules>
+  </component>
+</project>
