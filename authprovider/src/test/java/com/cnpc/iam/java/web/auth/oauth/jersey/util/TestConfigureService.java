@@ -10,6 +10,7 @@ public class TestConfigureService {
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(new String[]{"ConfigTest.xml"});
 
 
+
         context.start();
         System.out.println("Configure提供者服务已经注册成功");
 
